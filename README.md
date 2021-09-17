@@ -1,6 +1,6 @@
 # lga
 
-FIXME: description
+Little genetic algorithm
 
 ## Installation
 
